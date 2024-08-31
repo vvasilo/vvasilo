@@ -4,6 +4,7 @@
 <font style="font-family:georgia" size="+1">Principal Software Engineer</font>
 </br>
 <font style="font-family:georgia" size="+1">Robotics | AI</font>
+</br>
 
 <a href="https://www.vassilisvasilopoulos.com">
     <img src="https://img.shields.io/badge/Website-vassilisvasilopoulos.com-blue?style=flat-square">
@@ -48,7 +49,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Reactive Semantic Navigation](https://github.com/vvasilo/semnav) | <img alt="Stars" src="https://img.shields.io/github/stars/vvasilo/semnav?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![CMake](https://img.shields.io/badge/CMake-black?style=flat-square&logo=cmake) ![Boost](https://img.shields.io/badge/Boost-black?style=flat-square&logo=boost) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
-| [Sensor-Based Mobile Robot Navigation](https://github.com/KodlabPenn/doubly_reactive_matlab) | <img alt="Stars" src="https://img.shields.io/github/stars/KodlabPenn/doubly_reactive_matlab?style=flat-square&labelColor=black"/> |  ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) ![MATLAB](https://img.shields.io/badge/MATLAB-black?style=flat-square&logo=matlab) |
+| [Sensor-Based Reactive Robot Navigation](https://github.com/KodlabPenn/doubly_reactive_matlab) | <img alt="Stars" src="https://img.shields.io/github/stars/KodlabPenn/doubly_reactive_matlab?style=flat-square&labelColor=black"/> |  ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) ![MATLAB](https://img.shields.io/badge/MATLAB-black?style=flat-square&logo=matlab) |
 
 </td></tr> </table>
 
@@ -58,8 +59,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Hierarchical Incremental Online SDFs ](https://github.com/SamsungLabs/HIO-SDF) | <img alt="Stars" src="https://img.shields.io/github/stars/SamsungLabs/HIO-SDF?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
-| [Yolov3 PyTorch Support with ROS](https://github.com/vvasilo/yolov3_pytorch_ros) | <img alt="Stars" src="https://img.shields.io/github/stars/vvasilo/yolov3_pytorch_ros?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
+| [Hierarchical Incremental Online SDF Construction](https://github.com/SamsungLabs/HIO-SDF) | <img alt="Stars" src="https://img.shields.io/github/stars/SamsungLabs/HIO-SDF?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
+| [Yolov3 PyTorch-ROS Support](https://github.com/vvasilo/yolov3_pytorch_ros) | <img alt="Stars" src="https://img.shields.io/github/stars/vvasilo/yolov3_pytorch_ros?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
 
 </td><td>
 
