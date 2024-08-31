@@ -1,5 +1,5 @@
 <p align="left">
-<font style="font-family:georgia" size="+1"><b>Vasileios Vasilopoulos</b></font>
+<font style="font-family:georgia" size="+2"><b>Vasileios Vasilopoulos</b></font>
 <br/>
 <font style="font-family:georgia" size="+1">Principal Software Engineer</font>
 </br>
