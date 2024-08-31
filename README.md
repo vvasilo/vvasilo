@@ -1,12 +1,3 @@
-<p align="left">
-<font style="font-family:georgia" size="+2"><b>Vasileios Vasilopoulos</b></font>
-<br/>
-<font style="font-family:georgia" size="+1">Principal Software Engineer</font>
-</br>
-<font style="font-family:georgia" size="+1">Robotics | AI</font>
-</br>
-</br>
-
 <a href="https://www.vassilisvasilopoulos.com">
     <img src="https://img.shields.io/badge/Website-vassilisvasilopoulos.com-blue?style=flat-square">
 </a>  
