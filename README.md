@@ -35,7 +35,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Reactive Manipulation Planning (RAMP)](https://github.com/SamsungLabs/RAMP) | <img alt="Stars" src="https://img.shields.io/github/stars/SamsungLabs/RAMP?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Isaac Gym](https://img.shields.io/badge/Isaac%20Gym-black?style=flat-square&logo=nvidia) |
+| [Reactive Manipulation Planning (RAMP)](https://github.com/vvasilo/RAMP) | <img alt="Stars" src="https://img.shields.io/github/stars/vvasilo/RAMP?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Isaac Gym](https://img.shields.io/badge/Isaac%20Gym-black?style=flat-square&logo=nvidia) |
 
 </td></tr> </table>
 
@@ -56,7 +56,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Hierarchical Incremental Online SDF Construction](https://github.com/SamsungLabs/HIO-SDF) | <img alt="Stars" src="https://img.shields.io/github/stars/SamsungLabs/HIO-SDF?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
+| [Hierarchical Incremental Online SDF Construction](https://github.com/vvasilo/HIO-SDF) | <img alt="Stars" src="https://img.shields.io/github/stars/vvasilo/HIO-SDF?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
 | [Yolov3 PyTorch-ROS Support](https://github.com/vvasilo/yolov3_pytorch_ros) | <img alt="Stars" src="https://img.shields.io/github/stars/vvasilo/yolov3_pytorch_ros?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![ROS](https://img.shields.io/badge/ROS-black?style=flat-square&logo=ros) |
 
 </td></tr> </table>
